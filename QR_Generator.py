@@ -17,6 +17,6 @@ def generate_qr_code(link, file_name='qrcode.png'):
     img.save(file_name)
 
 link = ""  #Your Link Goes Here
-generate_qr_code(link, '') #Name of the file (png)
+generate_qr_code(link, 'qrcode.png') #Name of the file (png)
 
 print("QR code generated successfully!")
