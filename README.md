@@ -20,7 +20,7 @@ To use the QR Code Generator script, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Aarav-Shah-175/qr-code-generator.git
+   git clone https://github.com/Aarav-Shah-175/QR-Generator.git
    ```
 
 2. **Navigate to the Project Directory:**
